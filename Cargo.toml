@@ -1,0 +1,7 @@
+[package]
+name = "gfx_athena"
+version = "0.1.0"
+authors = ["msiglreith <m.siglreith@gmail.com>"]
+
+[dependencies]
+gfx-hal = { path = "../gfx/src/hal" }
